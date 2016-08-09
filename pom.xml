@@ -3,11 +3,12 @@
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-app</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <name>my-app</name>
 
   <scm>
     <developerConnection>scm:git:https://github.com/javierlopez40/test-release-plugin.git</developerConnection>
+    <tag>1.0.0</tag>
   </scm>
 
   <dependencies>
